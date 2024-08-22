@@ -22,7 +22,7 @@
 
 11.Dentro do formulário, deve haver um input do tipo botão de envio com o id="submit" correspondente
 
-12.Ao clicar no elemento #submit, o e-mail deve ser enviado para uma página estática (use este URL fictício: https://www.freecodecamp.com/email-submit)
+12.Ao clicar no elemento #submit, o e-mail deve ser enviado para uma página estática
 
 13.A barra de navegação deve estar sempre na parte superior da viewport
 
